@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="./src/favicon.ico">
-  <title>Lubz.NL</title>
+  <title>404 - Page Not Found</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=DM+Mono:ital@0;1&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet">
@@ -23,17 +23,17 @@
     <div class="contact">
       <div class="contact-row">
         <span class="key">Email</span>
-        <a href="mailto:hello@lubbertschenk.com">Media@Lubz.nl</a>
+        <a href="mailto:info@lubbertschenk.com">info@lubbertschenk.nl</a>
       </div>
       <div class="contact-row">
         <span class="key">Location</span>
-        <a href="https://maps.app.goo.gl/6ABSMJ2BHJzyda8z5">Urk, Netherlands</a>
+        <a href="https://maps.app.goo.gl/koKiBAX2wnuofeuC8">Flevoland, Netherlands</a>
       </div>
     </div>
 
     <footer>
       <span id="time"></span>
-      <span class="copyright">Part of &copy <a class="copyrightLink" href="https://media.lubz.nl"> Lubz Media</a></span>
+      <span class="copyright">&copy <a class="copyrightLink" href="https://lubbertschenk.nl"> Lubbert Schenk</a></span>
       <span>NL — <span id="year"></span></span>
     </footer>
   </main>

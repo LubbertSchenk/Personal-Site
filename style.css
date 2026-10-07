@@ -48,7 +48,7 @@ h1 {
   font-size: 53px
 }
 
-.dot { color: var(--muted); }
+.schenk { color: #4f4f4f; }
 
 .handle {
   font-size: 0.72rem;
@@ -68,6 +68,11 @@ h1 {
   line-height: 1.6;
   color: #444;
   margin-top: -15px;
+}
+
+.work-link {
+  text-decoration: underline;
+  color: #444;
 }
 
 .contact {
